@@ -1,0 +1,55 @@
+.home2{
+    height: 78vh;
+    width: 100vw;
+    display: flex;
+ 
+    
+}
+.home2Left{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-right: 40px;
+}
+.home2Right{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h4{
+    letter-spacing: 2px;
+    font-family: 'Anton', sans-serif;
+    font-size: 26px;
+    opacity: 0.8;
+}
+.homeP{
+    font-size: 16px;
+    color: gray;
+    letter-spacing: 1.5px;
+}
+.homeBtn{
+    background-color: green;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: white;
+    height: 36px;
+    width: 120px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-right: 240px;
+    cursor: pointer;
+    padding: 3px;
+}
+.chartImg{
+    height: 90%;
+    width: 100%;
+   
+}
